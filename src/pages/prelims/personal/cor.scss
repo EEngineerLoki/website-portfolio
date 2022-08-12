@@ -1,0 +1,57 @@
+.COR{
+    width: 50%;
+    height: 70vh;
+    padding-top: 5px;
+    background: rgba(57, 71, 78, 0.637);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(0.5px);
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 50px;
+    margin-left: 480px;
+    border-radius: 20px;
+    .container{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .left{
+            margin-left: 20px;
+            height: 65vh;
+            display: flex;
+            align-items: center;
+            .button{
+                background-color: transparent;
+                border: none;
+                &:hover{
+                    cursor: pointer;
+                }
+            }
+        }
+        .center{
+            margin: 10px;
+        }
+        .right{
+            gap: 28.9vh;
+            margin-right: 20px;
+            height: 65vh;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            .close{
+                background-color: transparent;
+                border: none;
+                &:hover{
+                    cursor: pointer;
+                }
+            }
+            .button{
+                background-color: transparent;
+                border: none;
+                &:hover{
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}

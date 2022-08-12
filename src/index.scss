@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&family=Montserrat:wght@300&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Manrope&family=Montserrat:wght@300&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Kanit&family=Manrope&family=Montserrat:wght@300&family=Source+Sans+Pro&display=swap');
+
+:root{
+    --font-family-highlight: 'Alfa Slab One', cursive;
+    --font-family:'Montserrat', sans-serif;
+    --font-family-secondary: 'Kanit', sans-serif;
+
+    --gradient-text: linear-gradient(90deg, rgba(215,83,47,1) 0%, rgba(121,9,113,1) 58%, rgba(0,151,255,1) 100%);
+    --gradient-bg: linear-gradient(120deg, rgb(8, 1, 48) 0%, rgb(19, 33, 49) 81%, rgba(12, 91, 143, 0.628) 100%);
+
+    --color-text: #c3dff8;
+    --color-text-secondary:#5cd6f5;
+    --color-text-bold:rgb(186, 186, 250);
+    --color-bg: #010d1a;
+
+    --graph-color: rgba(0, 255, 213, 0.466);
+
+    --button-bg: rgba(157, 147, 243, 0.445);
+    --button-bg-hover: rgba(93, 75, 255, 0.445);
+
+    --button-border-hover: 3px solid rgb(255, 161, 37);
+
+}

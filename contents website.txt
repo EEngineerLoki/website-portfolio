@@ -1,0 +1,27 @@
+Contents(Home):
+ - Profile
+ - Documentation
+ - CV Link
+
+Contents(Prelims):
+ - Curriculum Vitae
+ - COR
+ - Parents Permit
+ - MOA
+ - School ID
+ - Philhealth ID
+ - Vaccination Card
+ - MDR
+ - Training Waiver
+ - Training Workplan
+
+Contents(Accomplishments)
+ - Daily Narrative(documentation)
+ - Daily Time Record
+ - Rating Sheet
+
+Contents(Contacts):
+ - Gmail
+ - Facebook/Messenger
+ - LinkedIn
+ - Instagram

@@ -1,0 +1,90 @@
+.box{
+    background: rgba(157, 187, 204, 0.2);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(0.5px);
+    width: 350px;
+    height: 650px;
+    border-radius: 20px;
+    .line{
+        width: 80%;
+        height: 24px;
+        margin-left: 30px;
+        border-bottom: 3px solid rgba(157, 187, 204, 0.2);
+    }
+    .container{
+        padding-left: 40px;
+        margin: 18px;
+        .report{
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            font-weight: bold;
+            color: var(--color-text-bold);
+            .icon{
+                font-size: 30px;
+                margin-right: 10px;
+            }
+        }
+        .week{
+            padding-top: 10px;
+            padding-left: 38px;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            .link{
+                text-decoration: none;
+            }
+        }
+        .certificates{
+            margin-top: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            font-weight: bold;
+            color: var(--color-text-bold);
+            .icon{
+                font-size: 30px;
+                margin-right: 10px;
+            }
+        }
+        .certs{
+            padding-top: 10px;
+            padding-left: 38px;
+            display: flex;
+            justify-content: flex-start;
+            .link{
+                text-decoration: none;
+            }
+            .label{
+                text-align: justify;
+                background-color: transparent;
+                border: none;
+                font-size: 16px;
+            }
+        }
+        .time-record{
+            padding-top: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            font-weight: bold;
+            color: var(--color-text-bold);
+            .icon{
+                font-size: 30px;
+                margin-right: 10px;
+            }
+        }
+        .rating{
+            padding-top: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            font-weight: bold;
+            color: var(--color-text-bold);
+            .icon{
+                font-size: 30px;
+                margin-right: 10px;
+            }
+        }
+    }
+}
